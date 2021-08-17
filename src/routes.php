@@ -1,11 +1,11 @@
 <?php
 use Illuminate\Support\Facades\Route;
 
-Route::get('greeting', function () {
-    return 'Hi, this is your awesome package! Unw';
-});
+// Route::get('greeting', function () {
+//     return 'Hi, this is your awesome package! Unw';
+// });
 
-Route::get('unw/test', 'EdgeWizz\Unw\Controllers\UnwController@test')->name('test');
+// Route::get('unw/test', 'EdgeWizz\Unw\Controllers\UnwController@test')->name('test');
 
 Route::post('fmt/unjumblewords/store', 'EdgeWizz\Unw\Controllers\UnwController@store')->name('fmt.unw.store');
 
