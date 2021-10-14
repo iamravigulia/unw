@@ -206,38 +206,38 @@ class UnwController extends Controller
 
                                 "answer1"       => $importData[2],
                                 "arrange1"      => $importData[3],
-                                "eng_word1"     => $importData[3],
+                                "eng_word1"     => $importData[4],
 
-                                "answer2"       => $importData[4],
-                                "arrange2"      => $importData[5],
-                                "eng_word2"     => $importData[6],
+                                "answer2"       => $importData[5],
+                                "arrange2"      => $importData[6],
+                                "eng_word2"     => $importData[7],
 
-                                "answer3"       => $importData[7],
-                                "arrange3"      => $importData[8],
-                                "eng_word3"     => $importData[9],
+                                "answer3"       => $importData[8],
+                                "arrange3"      => $importData[9],
+                                "eng_word3"     => $importData[10],
 
-                                "answer4"       => $importData[10],
-                                "arrange4"      => $importData[11],
-                                "eng_word4"     => $importData[12],
+                                "answer4"       => $importData[11],
+                                "arrange4"      => $importData[12],
+                                "eng_word4"     => $importData[13],
 
-                                "answer5"       => $importData[13],
-                                "arrange5"      => $importData[14],
-                                "eng_word5"     => $importData[15],
+                                "answer5"       => $importData[14],
+                                "arrange5"      => $importData[15],
+                                "eng_word5"     => $importData[16],
 
-                                "answer6"       => $importData[16],
-                                "arrange6"      => $importData[17],
-                                "eng_word6"     => $importData[18],
+                                "answer6"       => $importData[17],
+                                "arrange6"      => $importData[18],
+                                "eng_word6"     => $importData[19],
 
-                                "answer7"       => $importData[19],
-                                "arrange7"      => $importData[20],
-                                "eng_word7"     => $importData[21],
+                                "answer7"       => $importData[20],
+                                "arrange7"      => $importData[21],
+                                "eng_word7"     => $importData[22],
 
-                                "answer8"       => $importData[22],
-                                "arrange8"      => $importData[23],
-                                "eng_word8"     => $importData[24],
+                                "answer8"       => $importData[23],
+                                "arrange8"      => $importData[24],
+                                "eng_word8"     => $importData[26],
 
-                                "level"         => $importData[25],
-                                "hint"          => $importData[26],
+                                "level"         => $importData[26],
+                                "hint"          => $importData[27],
                             );
                             // var_dump($insertData['answer1']); 
                             /*  */
